@@ -81,13 +81,13 @@ High level conversational flow.
 
 Welcome and consent journeys.
 
-06_Authentication_and_Verification
-
-Authentication and verification flows.
-
-07_Intent_Routing
+06_Intent_Routing
 
 Intent identification and routing.
+
+07_Authentication_and_Verification
+
+Authentication and verification flows.
 
 08_Happy_Path_Journeys
 
