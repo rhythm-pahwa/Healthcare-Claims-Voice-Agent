@@ -1,33 +1,27 @@
 # Privacy and Consent Flow
 
-The Privacy and Consent Flow ensures that users are informed about the handling of their information before proceeding with healthcare related requests.
+The Privacy and Consent Flow ensures that users are informed about privacy requirements and agree to continue before accessing healthcare related services.
 
-## Consent Conversation
+## Flow Diagram
 
-Bot:
-Before we continue, please note that your information will be handled according to healthcare privacy and security requirements.
+![Privacy and Consent Flow](../assets/Privacy_and_Consent.png)
 
-Bot:
-Do you consent to continue with this interaction?
+## Terms and Conditions
 
-User:
-Yes
+Before continuing, users are informed that:
 
-Bot:
-Thank you. Let's continue.
-
-User:
-No
-
-Bot:
-I am unable to proceed without your consent.
-
-Bot:
-Thank you for contacting Healthcare Support.
+- Personal information may be collected for identity verification.
+- Authentication is required before accessing protected healthcare information.
+- Information is handled according to healthcare privacy requirements.
+- Unauthorized access to healthcare information is restricted.
+- Calls may be transferred to a human representative when required.
+- The user must provide accurate information during authentication.
+- The service is intended for authorized members and providers.
 
 ## Flow Summary
 
-- Inform the user about privacy requirements
-- Request user consent
-- Continue conversation if consent is provided
-- End conversation if consent is not provided
+- Inform the user about privacy requirements.
+- Present terms and conditions.
+- Request user consent.
+- Continue if consent is provided.
+- End the conversation if consent is not provided.
