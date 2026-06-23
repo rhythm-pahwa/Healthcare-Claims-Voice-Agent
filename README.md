@@ -63,7 +63,7 @@ Authentication may include:
 
 01_Pre_Requisites
 
-Project requirements, assumptions, scope, and compliance requirements.
+Project requirements, scope, and compliance requirements.
 
 02_Project_Overview
 
