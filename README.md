@@ -7,7 +7,6 @@
 - Ramaz
 - Pragati
 - Palak
-- Ramaz
 
 ## Overview
 
