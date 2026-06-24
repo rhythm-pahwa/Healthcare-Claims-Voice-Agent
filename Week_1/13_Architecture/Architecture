@@ -8,7 +8,7 @@ This architecture separates orchestration responsibilities from domain-specific 
 
 ### High-Level Agentic AI Orchestration Architecture
 
-[INSERT HIGH-LEVEL ARCHITECTURE IMAGE HERE]
+![End to End Conversational Flow](../All_Flows/Architecture.png)
 
 The architecture consists of the following key layers:
 
