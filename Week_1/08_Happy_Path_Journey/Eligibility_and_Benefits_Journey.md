@@ -21,7 +21,7 @@ Before eligibility or benefits information is disclosed, the user must complete 
 
 ## Flow Diagram
 
-![Eligibility and Benefits Journey](../assets/Eligibility_and_Benefits_Journey.png)
+![Eligibility and Benefits Journey](../All_Flows/Eligibility_and_Benefits_Journey.png)
 
 ## Flow Summary
 

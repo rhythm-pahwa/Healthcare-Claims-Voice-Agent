@@ -32,7 +32,7 @@ If no further assistance is needed, the conversation is concluded.
 
 ## Flow Diagram
 
-![Human Escalation and Closure Flow](../assets/Human_Escalation_and_Closure_Flow.png)
+![Human Escalation and Closure Flow](../All_Flows/Human_Escalation_and_Closure_Flow.png)
 
 ## Flow Summary
 

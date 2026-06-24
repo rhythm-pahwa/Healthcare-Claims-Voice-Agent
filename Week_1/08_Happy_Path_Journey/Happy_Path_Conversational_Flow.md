@@ -6,7 +6,7 @@ This flow combines all major healthcare service journeys and demonstrates the st
 
 ## Flow Diagram
 
-![Happy Path Conversational Flow](../assets/Happy_Path_Conversational_Flow.png)
+![Happy Path Conversational Flow](../All_Flows/Happy_Path_Conversational_Flow.png)
 
 ## Happy Path Summary
 

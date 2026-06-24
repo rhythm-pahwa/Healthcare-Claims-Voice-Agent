@@ -121,8 +121,7 @@ During escalation, conversation context is transferred to ensure continuity and 
 
 ## Flow Diagram
 
-![End to End Conversational Flow](../assets/End_To_End_Conversational_Flow.png)
-
+![End to End Conversational Flow](../All_Flows/End_To_End_Conversational_Flow.png)
 ## End to End Flow Summary
 
 1. User initiates the conversation.

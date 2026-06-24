@@ -73,7 +73,7 @@ Agent Escalation
 
 ## Flow Diagram
 
-![Intent Routing Flow](../assets/Intent_routing_flow.png)
+![Intent Routing Flow](../All_FLows/Intent_routing_flow.png)
 
 ## Flow Summary
 

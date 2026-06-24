@@ -4,7 +4,7 @@ The Privacy and Consent Flow ensures that users are informed about privacy requi
 
 ## Flow Diagram
 
-![Privacy and Consent Flow](../assets/Privacy_and_Consent.png)
+![Privacy and Consent Flow](../All_Flows/Privacy_and_Consent.png)
 
 ## Terms and Conditions
 

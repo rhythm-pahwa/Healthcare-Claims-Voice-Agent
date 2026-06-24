@@ -21,7 +21,7 @@ Before provider or authorization information is disclosed, the user must complet
 
 ## Flow Diagram
 
-![Provider and Pre Authorization Journey](../assets/Provider_and_PreAuthorization_Journey.png)
+![Provider and Pre Authorization Journey](../All_Flows/Provider_and_PreAuthorization_Journey.png)
 
 ## Flow Summary
 

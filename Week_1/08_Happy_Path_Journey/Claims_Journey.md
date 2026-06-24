@@ -21,7 +21,7 @@ Before claim related information is accessed or submitted, the user must complet
 
 ## Flow Diagram
 
-![Claims Journey Flow](../assets/Claims_Journey_Flow.png)
+![Claims Journey Flow](../All_Flows/Claims_Journey_Flow.png)
 
 ## Flow Summary
 

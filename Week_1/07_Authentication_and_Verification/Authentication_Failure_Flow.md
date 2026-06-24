@@ -17,7 +17,7 @@ After three unsuccessful verification attempts, the conversation is transferred 
 
 ## Flow Diagram
 
-![Authentication Failure Flow](../assets/Authentication_Failure_Flow.png)
+![Authentication Failure Flow](../All_Flows/Authentication_Failure_Flow.png)
 
 ## Flow Summary
 

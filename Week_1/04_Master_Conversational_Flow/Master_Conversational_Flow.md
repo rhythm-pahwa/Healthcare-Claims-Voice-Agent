@@ -18,4 +18,4 @@ The flow begins when a user contacts the healthcare support system and continues
 
 ## Master Flow Diagram
 
-![Master Conversational Flow](../assets/master_conversational_flow.png)
+![Master Conversational Flow](../All_Flows/master_conversational_flow.png)

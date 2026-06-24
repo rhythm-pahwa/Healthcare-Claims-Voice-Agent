@@ -25,7 +25,7 @@ The voice agent may collect:
 
 ## Flow Diagram
 
-![Authentication Flow](../assets/Authentication_Flow.png)
+![Authentication Flow](../All_FLows/Authentication_Flow.png)
 
 ## Flow Summary
 
