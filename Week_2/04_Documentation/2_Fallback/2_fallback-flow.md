@@ -10,7 +10,7 @@ The objective is to recover the conversation by requesting clarification before 
 
 ## Flow
 
-
+<img width="1086" height="1448" alt="ChatGPT Image Jun 29, 2026, 11_00_48 PM" src="https://github.com/user-attachments/assets/cb7e0f68-d371-4a36-9feb-5aaa5a0ddfd1" />
 
 ---
 
