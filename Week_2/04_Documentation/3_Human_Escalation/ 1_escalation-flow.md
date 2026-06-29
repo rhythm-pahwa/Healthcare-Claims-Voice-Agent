@@ -8,6 +8,7 @@ Transfer the conversation to a human representative when the request cannot be r
 
 ## Flow
 
+<img width="1086" height="1448" alt="ChatGPT Image Jun 29, 2026, 11_14_43 PM" src="https://github.com/user-attachments/assets/34c6f8a1-4c00-45dd-8910-dd189dcf776f" />
 
 ---
 
